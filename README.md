@@ -1,2 +1,3 @@
 # zabbix
-Zabbix Template
+Zabbix Template Documentation
+Custom Template
